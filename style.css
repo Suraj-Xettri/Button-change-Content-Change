@@ -18,6 +18,7 @@
     font-size: 8vw;
     height: 8vh;
     width: 100vw;
+    box-sizing: border-box;
     overflow-x: scroll;
 }
 .container::-webkit-scrollbar{
@@ -42,6 +43,7 @@
     transition: all .2s;
     background-color: white;
     font-weight: 600;
+    
 }
 .content {
     margin-top: 1rem; 
