@@ -72,9 +72,10 @@
 .btn-sub:active {
     outline: none;
 }
-@media (min-width: 360px) { 
+@media (min-width: 320px) { 
     .container {
         gap: 0.5rem;
+        height: 10vh;
         
     }
 
